@@ -7,9 +7,6 @@
 **Email:** zynpztrk2002@gmail.com  
 
 
-## Project Name
-Description of your project.
-
 ## Requirements
 ```
 Some python libraries
